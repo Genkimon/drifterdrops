@@ -1,11 +1,14 @@
 {
-  "type": "code",
+  "type": "content",
   "modid": "drifterdrops",
-  "name": "drifterdrops",
-  "authors": ["Unknown"],
-  "description": "To be added",
+  "name": "Drifter Drops",
+  "authors": [ "Genkimon" ],
+  "description": "Changes drifters from harvestable to instant loot drops. Adds slightly improved loot.",
   "version": "1.0.0",
+  "side": "Server",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
   "dependencies": {
-    "game": ""
+    "game": "1.18.0"
   }
 }
